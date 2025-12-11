@@ -19,8 +19,11 @@ Features:
 
 
 
+
 Installation:
 pip install yfinance pandas numpy
+
+
 
 Example config.json:
 
@@ -36,6 +39,7 @@ Example config.json:
 }
 
 
+
 Key configuration notes:
 
 -tickers: stock symbols in Yahoo Finance format
@@ -43,6 +47,7 @@ Key configuration notes:
 -start_date / end_date: must be formatted YYYY-MM-DD (end_date must be earlier than today)
 
 -weights: must sum to 1
+
 
 
 The script will download data, generate CSV files with prices and daily returns, and print portfolio return and risk values.
