@@ -1,0 +1,6 @@
+{
+  "tickers": ["KGH.WA", "PKN.WA", "^GSPC"],
+  "start_date": "2023-01-01",
+  "end_date": "2024-12-31",
+  "weights": [0.5, 0.25, 0.25]
+}
