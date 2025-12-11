@@ -4,6 +4,7 @@ Portfolio Analysis Tool
 This project is a simple Python script that downloads historical stock data from Yahoo Finance, calculates daily returns, and computes basic portfolio metrics such as expected return and risk. All input settings are managed through a config.json file.
 
 Features:
+
 -Reads tickers, date range, and portfolio weights from config.json
 
 -Supports any number of assets (multiple tickers and matching weights)
@@ -13,6 +14,7 @@ Features:
 -Downloads closing price data and saves it to prices.csv
 
 -Computes daily returns and saves them to daily_returns.csv
+
 -Calculates expected portfolio return, covariance matrix, and portfolio risk (standard deviation)
 
 
