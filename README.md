@@ -13,7 +13,6 @@ Features:
 -Downloads closing price data and saves it to prices.csv
 
 -Computes daily returns and saves them to daily_returns.csv
-
 -Calculates expected portfolio return, covariance matrix, and portfolio risk (standard deviation)
 
 
